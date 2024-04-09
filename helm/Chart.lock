@@ -1,0 +1,15 @@
+dependencies:
+- name: helm-product
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.1.0
+- name: onecx-welcome-svc
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.11
+- name: onecx-welcome-bff
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.8
+- name: onecx-welcome-ui
+  repository: oci://ghcr.io/onecx/charts
+  version: 0.0.0-rc.2
+digest: sha256:c30973a44b8f223992536b8d587e40a74c2ea3fb422b408791879caa31fa0e65
+generated: "2024-04-09T06:45:46.3498718+02:00"

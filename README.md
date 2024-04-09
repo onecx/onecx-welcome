@@ -1,2 +1,2 @@
 # onecx-welcome
-OneCX Welcome Management Product
+OneCX Welcome Product

@@ -1,8 +1,9 @@
 name: onecx-welcome
 title: Welcome Management
 version: latest
-start_page: onecx-welcome:index.adoc
+start_page: general:index.adoc
 nav:
-  - modules/onecx-welcome/nav.adoc
-  - modules/onecx-welcome-svc/nav.adoc
+  - modules/general/nav.adoc
+  - modules/onecx-welcome-ui/nav.adoc
   - modules/onecx-welcome-bff/nav.adoc
+  - modules/onecx-welcome-ui/nav.adoc

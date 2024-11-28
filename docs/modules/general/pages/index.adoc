@@ -1,5 +1,32 @@
 = OneCX Welcome Management
 
+.Welcome UI
+image::overview.png[]
+
+== Overview
+The welcome dialogue feature is designed to enhance the user experience by providing a personalized and engaging entry point to the portal. It serves multiple purposes, including displaying important announcements, greeting the user, and showcasing customized images to make the starting page visually appealing. Key features include:
+
+*Announcements Display*:
+
+* Integration with Announcements Management Tool: The welcome dialogue pulls in the latest announcements or news from an integrated announcements management tool.
+* Real-Time Updates: Ensures that users are always informed about the most recent and relevant information.
+
+*Personalized Greeting*:
+
+* User-Specific Welcome Message: Greets the logged-in user by name, creating a personalized experience.
+* Dynamic Content: The greeting can include the current date, time, and other relevant user-specific information.
+
+*Customized Images*:
+
+* Visual Appeal: Displays attractive images that can be customized for each workspace.
+* Administrative Control: Administrators have the ability to maintain and update these images, ensuring they are relevant and up-to-date.
+* Workspace-Specific: Different workspaces can have unique sets of images, tailored to their specific themes or needs.
+
+== Benefits
+* Enhanced User Engagement: The personalized greeting and dynamic content make users feel welcomed and valued.
+* Improved Communication: The announcements feature ensures that important information is effectively communicated to all users.
+* Aesthetic Appeal: Customized images add a visual element that makes the portal more inviting and engaging.
+
 == Licence
 This software is licensed under the Apache License, Version 2.0.
 You may obtain a copy of the license in the corresponding LICENSE file or visit the link:https://www.apache.org/licenses/LICENSE-2.0[Apache website] for more information.
@@ -8,16 +35,10 @@ You may obtain a copy of the license in the corresponding LICENSE file or visit 
 We welcome contributions from the community.
 If you would like to contribute to the development of OneCX Welcome Management Software, please follow our contribution guidelines (tbd).
 
-== What is Welcome Management?
-Welcome Management refers to setting ups Welcome screens usable in context of OneCX applications.
-
-== Key Features
-* Welcome screen set up and editing: set up and edit Welcome screens usable in context of OneCX applications.
-
-== Issue tracking
+== Issue Tracking
 All OneCX Welcome issues are tracked and maintained at the link:https://xyz.com[issue tracking tool].
 
-== Overview
+== Structure Overview
 OneCX Welcome Software is a comprehensive solution for managing Welcome screens in a user-friendly and efficient manner.
 It is a solution that consists of three main components: a backend service, a user interface and a backend-for-frontend (BFF) layer.
 

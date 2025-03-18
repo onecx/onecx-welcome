@@ -10,6 +10,6 @@ dependencies:
   version: 1.4.0-rc.10
 - name: onecx-welcome-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 1.5.0-rc.16
-digest: sha256:89728358f4d71d4b7514ae4185452b3226a8771f8c7a42b72eccfcce4901c3a0
-generated: "2025-03-17T08:38:49.190322672Z"
+  version: 1.5.0-rc.17
+digest: sha256:0e5ef31ee12a77aeebd97ce738f113684ad56e1277bf29ddcb4d08073cd0bf4e
+generated: "2025-03-18T08:00:51.04314177Z"

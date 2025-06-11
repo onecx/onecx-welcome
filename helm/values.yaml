@@ -6,8 +6,10 @@ deployment:
 product:
   info:
     data:
-      description: "OneCX Welcome"
+      description: "Manage the content of the Workspace Start page"
       imageUrl: ""
-      iconName: "home"
+      iconName: home
       displayName: "OneCX Welcome"
-      basePath: "/welcome"
+      basePath: /welcome
+      provider: "OneCX Team"
+      classifications: [ "Administration" ]

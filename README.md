@@ -1,2 +1,2 @@
 # onecx-welcome
-OneCX Welcome Product
+OneCX Welcome

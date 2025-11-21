@@ -6,4 +6,4 @@ nav:
   - modules/general/nav.adoc
   - modules/onecx-welcome-ui/nav.adoc
   - modules/onecx-welcome-bff/nav.adoc
-  - modules/onecx-welcome-ui/nav.adoc
+  - modules/onecx-welcome-svc/nav.adoc

@@ -1,0 +1,7 @@
+* xref:documentation:onecx-welcome:index.adoc[Welcome]
++
+include::documentation:onecx-welcome-ui:partial$nav.adoc[]
++
+include::documentation:onecx-welcome-bff:partial$nav.adoc[]
++
+include::documentation:onecx-welcome-svc:partial$nav.adoc[]

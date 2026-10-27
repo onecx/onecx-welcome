@@ -4,12 +4,12 @@ dependencies:
   version: 0.4.0
 - name: onecx-welcome-svc
   repository: oci://ghcr.io/onecx/charts
-  version: 1.11.0-rc.23
+  version: 1.11.0-rc.24
 - name: onecx-welcome-bff
   repository: oci://ghcr.io/onecx/charts
   version: 1.10.0-rc.23
 - name: onecx-welcome-ui
   repository: oci://ghcr.io/onecx/charts
-  version: 1.9.0-rc.41
-digest: sha256:9699f342d7186419bcae354d4494dfd5d8df38ea4ec072421d176d98e8019560
-generated: "2026-10-13T10:53:59.806502657Z"
+  version: 1.9.0-rc.42
+digest: sha256:a633671c96bac480dade4fe745ba585aa5e788dd9be00599b8de6b274e9d1d3b
+generated: "2026-10-27T15:21:02.518223164Z"
